@@ -16,5 +16,11 @@ Here is an example of the simulation in action:
 
 ## Usage
 
+1. Run the script `projectile.m` in MATLAB.
+2. The program will prompt you for input values:
+   - **Initial height** (in meters).
+   - **Initial velocity** (in m/s).
+   - **Launch angle** (in degrees).
+   - **Drag coefficient** (a factor for air resistance).
+3. The program will display an animated simulation of the projectiles, including real-time values of their position, velocity, and maximum height.
 
-To use the simulation, run the MATLAB script `projectile.m`.
